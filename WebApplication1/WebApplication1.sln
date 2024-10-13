@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34221.43
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebApplication1", "WebApplication1.csproj", "{23D6DAD3-98ED-4034-9BAB-DC73CAC12DC2}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MyDotNetApp2", "..\MyDotNetApp2.csproj", "{6434D033-759D-48DD-AEFC-69AF8A885BE2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{23D6DAD3-98ED-4034-9BAB-DC73CAC12DC2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{23D6DAD3-98ED-4034-9BAB-DC73CAC12DC2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{23D6DAD3-98ED-4034-9BAB-DC73CAC12DC2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{23D6DAD3-98ED-4034-9BAB-DC73CAC12DC2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6434D033-759D-48DD-AEFC-69AF8A885BE2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6434D033-759D-48DD-AEFC-69AF8A885BE2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6434D033-759D-48DD-AEFC-69AF8A885BE2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6434D033-759D-48DD-AEFC-69AF8A885BE2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {55604E41-140D-427B-9F8C-5AA3905DBFBD}
+	EndGlobalSection
+EndGlobal
